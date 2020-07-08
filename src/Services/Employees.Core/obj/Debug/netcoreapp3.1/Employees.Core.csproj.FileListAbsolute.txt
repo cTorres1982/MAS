@@ -6,3 +6,4 @@ C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp
 C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.csproj.CoreCompileInputs.cache
 C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.dll
 C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.csprojAssemblyReference.cache

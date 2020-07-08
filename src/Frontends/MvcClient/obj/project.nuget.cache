@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/3hDZDpNjaEjfH3FW7eQdGoLFxHCuJDSKNregohwpkgWAmjpNF+VJT12sq0wIACRlKlxm4s4gv+b+kiJ3k9p0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camil\\source\\repos\\MAS\\src\\Frontends\\MvcClient\\MvcClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

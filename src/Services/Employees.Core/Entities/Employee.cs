@@ -15,6 +15,6 @@ namespace Employees.Core.Entities
         public decimal HourlySalary { get; set; }
         public decimal MonthlySalary { get; set; }
 
-        public abstract decimal AnnualSalay { get; set; }
+        public abstract decimal AnnualSalary { get; set; }
     }
 }

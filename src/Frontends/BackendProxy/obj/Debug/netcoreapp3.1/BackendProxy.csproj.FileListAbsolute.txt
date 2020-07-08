@@ -1,0 +1,9 @@
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\bin\Debug\netcoreapp3.1\BackendProxy.deps.json
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\bin\Debug\netcoreapp3.1\BackendProxy.dll
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\obj\Debug\netcoreapp3.1\BackendProxy.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\obj\Debug\netcoreapp3.1\BackendProxy.AssemblyInfo.cs
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\bin\Debug\netcoreapp3.1\BackendProxy.pdb
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\obj\Debug\netcoreapp3.1\BackendProxy.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\obj\Debug\netcoreapp3.1\BackendProxy.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\obj\Debug\netcoreapp3.1\BackendProxy.dll
+C:\Users\camil\source\repos\MAS\src\Frontends\BackendProxy\obj\Debug\netcoreapp3.1\BackendProxy.pdb

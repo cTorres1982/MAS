@@ -14,6 +14,6 @@ namespace Employees.Core.DTOs
         public string RoleDescription { get; set; }
         public decimal HourlySalary { get; set; }
         public decimal MonthlySalary { get; set; }
-        public decimal AnnualSalay { get; set; }
+        public decimal AnnualSalary { get; set; }
     }
 }

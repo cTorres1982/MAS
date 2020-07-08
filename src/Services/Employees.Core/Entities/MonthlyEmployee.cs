@@ -6,7 +6,7 @@ namespace Employees.Core.Entities
 {
     public class MonthlyEmployee : Employee
     {
-        public override decimal AnnualSalay
+        public override decimal AnnualSalary
         {
             get
             {
