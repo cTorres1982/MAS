@@ -1,0 +1,8 @@
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.deps.json
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\bin\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.AssemblyInfo.cs
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Core\obj\Debug\netcoreapp3.1\Employees.Core.pdb

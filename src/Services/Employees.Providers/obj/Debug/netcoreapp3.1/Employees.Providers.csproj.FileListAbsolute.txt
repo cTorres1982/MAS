@@ -1,0 +1,12 @@
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\bin\Debug\netcoreapp3.1\Employees.Providers.deps.json
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\bin\Debug\netcoreapp3.1\Employees.Providers.dll
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\bin\Debug\netcoreapp3.1\Employees.Providers.pdb
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\bin\Debug\netcoreapp3.1\Employees.Core.dll
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\bin\Debug\netcoreapp3.1\Employees.Core.pdb
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\obj\Debug\netcoreapp3.1\Employees.Providers.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\obj\Debug\netcoreapp3.1\Employees.Providers.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\obj\Debug\netcoreapp3.1\Employees.Providers.AssemblyInfo.cs
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\obj\Debug\netcoreapp3.1\Employees.Providers.csproj.CopyComplete
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\obj\Debug\netcoreapp3.1\Employees.Providers.dll
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\obj\Debug\netcoreapp3.1\Employees.Providers.pdb
+C:\Users\camil\source\repos\MAS\src\Services\Employees.Providers\obj\Debug\netcoreapp3.1\Employees.Providers.csproj.CoreCompileInputs.cache
